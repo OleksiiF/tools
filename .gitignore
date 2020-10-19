@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+
+*.json
+*.zip
+*.rar
+*.7z
